@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#3276fe</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- custom color -->
+    <color name="color_white">#ffffff</color>
+    <color name="color_black">#000000</color>
+    <color name="color_status_black">#050505</color>
+    <color name="color_gray">#95a5a6</color>
+    <color name="color_main">#009688</color>
+    <color name="color_facebook">#4267b2</color>
+    <color name="color_red">#ce0000</color>
+    <color name="color_active">#3276fe</color>
+    <color name="color_unactive">#b9bcc2</color>
+</resources>

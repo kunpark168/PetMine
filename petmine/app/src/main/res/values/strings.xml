@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PetMine</string>
+    <string name="font_lato_regular_str">fonts/Lato-Regular.ttf</string>
+    <string name="font_lato_bold_str">fonts\Lato-Bold.ttf</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot your password?</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="or">OR</string>
+    <string name="sign_in_fb">Sign In With Facebook</string>
+    <string name="content_sign_up">You don\'t have an account? </string>
+
+    <!-- Bottom Navigation -->
+    <string name="new_feed">New Feed</string>
+    <string name="center">Center</string>
+    <string name="near_by">Near By</string>
+    <string name="notification">Notification</string>
+    <string name="more">More</string>
+</resources>
